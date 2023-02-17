@@ -154,5 +154,9 @@ img {
     .lessons .col, .steps .col, .why-us .col{
         width: 75%;
     }
+
+    .why-us{
+        background-color: #222222;
+    }
  }
 
