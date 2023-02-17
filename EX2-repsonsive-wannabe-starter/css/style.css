@@ -155,8 +155,14 @@ img {
         width: 75%;
     }
 
+    .steps{
+        margin-bottom: 0;
+    }
+
     .why-us{
         background-color: #222222;
+        margin-bottom: 0;
+        padding: 3rem 0;
     }
  }
 
